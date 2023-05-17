@@ -1,8 +1,18 @@
 ﻿@{
-    ViewData["Title"] = "Home Page";
+    ViewData["Title"] = "Index";
 }
 
-<div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
-</div>
+
+    <article class="flex">
+        <div class="cuadrado">
+            <div>
+                @ViewBag.equipos["boca"].medias
+            </div>
+        </div>
+        <div class="cuadrado"> 
+            <div class="divInput">
+                <h2>Ingresar nombre equipo:</h2>
+                <input type="text" name="" id="">
+            </div>
+        </div>
+    </article>
