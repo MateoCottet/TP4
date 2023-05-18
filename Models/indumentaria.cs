@@ -1,9 +1,9 @@
 public class Indumentaria {
-    public string Medias {get; private set;}
-    public string Pantalon {get; private set;}
-    public string Camiseta {get; private set;}
+    public IFormFile Medias {get; private set;}
+    public IFormFile Pantalon {get; private set;}
+    public IFormFile Camiseta {get; private set;}
 
-    public Indumentaria(string medias, string pantalon, string camiseta) {
+    public Indumentaria(IFormFile medias, IFormFile pantalon, IFormFile camiseta) {
         Medias = medias;
         Pantalon = pantalon;
         Camiseta = camiseta;

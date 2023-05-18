@@ -1,16 +1,24 @@
 static public class Equipos {
-    public static List<string> ListaEquipos {get; private set;}
-    public static List<string> ListaMedias {get; private set;}
-    public static List<string> ListaPantalones {get; private set;}
-    public static List <string> ListaRemeras {get; private set;}
-    public static Dictionary <string, Indumentaria> EquiposIndumentaria {get; private set;}
+    public static List<string> ListaEquipos {get;  set;}
+    public static List<IFormFile> ListaMedias {get;  set;}
+    public static List<IFormFile> ListaPantalones {get;  set;}
+    public static List <IFormFile> ListaRemeras {get;  set;}
+    public static Dictionary <string, Indumentaria> EquiposIndumentaria {get;  set;}
 
-    public static bool IngresarIndumentaria(string EquipoSeleccionado, Indumentaria item) {
-        if (EquipoSeleccionado != null) {
-            return false;
-        }
-        EquiposIndumentaria.Add(EquipoSeleccionado,item);
-        return true; 
+    public static bool IngresarIndumentaria(string equipoSeleccionado, Indumentaria item) {
+
+    if (equipoSeleccionado == null || item == null)
+    {
+        return false;
+    }
+
+    if (EquiposIndumentaria.ContainsKey(equipoSeleccionado))
+    {
+        return false;
+    }
+
+    EquiposIndumentaria.Add(equipoSeleccionado, item);
+    return true;
     }
 
 }

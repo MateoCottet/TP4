@@ -1,13 +1,12 @@
 ﻿@{
     ViewData["Title"] = "Index";
+    
 }
 
-
+    <a href='@Url.Action("SelectIndumentaria","Home")'>Ir a agregar equipos</a>
     <article class="flex">
         <div class="cuadrado">
-            <div>
-                @ViewBag.equipos["boca"].medias
-            </div>
+          @ViewBag.ListaEquipos["boca"]
         </div>
         <div class="cuadrado"> 
             <div class="divInput">
