@@ -53,8 +53,6 @@ public class HomeController : Controller
         Equipos.ListaRemeras.Add(Remera);
         Indumentaria indu = new Indumentaria(Media,Pantalon,Remera);
         Equipos.IngresarIndumentaria(Equipo,indu);
-        ViewBag.EquiposCreados = Equipos.EquiposIndumentaria;
-        ViewBag.indu = indu;
         return RedirectToAction("Index");
     }
     public IActionResult meterImagen(string imagen) {

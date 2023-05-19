@@ -8,10 +8,9 @@
         <div class="cuadrado">
             @{ 
                 if (@ViewBag.EquiposCreados != null) {
-                    <h3>@ViewBag.EquiposCreados["boca"].Medias</h3>
-                }
-                if (@ViewBag.indu != null) {
-                    <h3>@ViewBag.indu.Medias</h3>
+                    foreach(Indumentaria i in @ViewBag.EquiposCreados) {
+                        <h3>@i.value.Medias</h3>
+                    }
                 }  
             }
         </div>

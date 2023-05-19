@@ -1,383 +1,383 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\Thiago\\Downloads\\TP4-main\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Tp4.bundle.scp.css",
+      "Id": "C:\\Users\\47393575\\Downloads\\TP4\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Tp4.bundle.scp.css",
       "PackagePath": "staticwebassets\\Tp4.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\Thiago\\Downloads\\TP4-main\\wwwroot\\css\\site.css",
+      "Id": "C:\\Users\\47393575\\Downloads\\TP4\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "C:\\Users\\Thiago\\Downloads\\TP4-main\\wwwroot\\favicon.ico",
+      "Id": "C:\\Users\\47393575\\Downloads\\TP4\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\Thiago\\Downloads\\TP4-main\\wwwroot\\img\\medias\\mediasArgentinosJuniors.png",
+      "Id": "C:\\Users\\47393575\\Downloads\\TP4\\wwwroot\\img\\medias\\mediasArgentinosJuniors.png",
       "PackagePath": "staticwebassets\\img\\medias\\mediasArgentinosJuniors.png"
     },
     {
-      "Id": "C:\\Users\\Thiago\\Downloads\\TP4-main\\wwwroot\\img\\medias\\mediasBelgrano.png",
+      "Id": "C:\\Users\\47393575\\Downloads\\TP4\\wwwroot\\img\\medias\\mediasBelgrano.png",
       "PackagePath": "staticwebassets\\img\\medias\\mediasBelgrano.png"
     },
     {
-      "Id": "C:\\Users\\Thiago\\Downloads\\TP4-main\\wwwroot\\img\\medias\\mediasBoca.png",
+      "Id": "C:\\Users\\47393575\\Downloads\\TP4\\wwwroot\\img\\medias\\mediasBoca.png",
       "PackagePath": "staticwebassets\\img\\medias\\mediasBoca.png"
     },
     {
-      "Id": "C:\\Users\\Thiago\\Downloads\\TP4-main\\wwwroot\\img\\medias\\mediasDefensayjusticia.png",
+      "Id": "C:\\Users\\47393575\\Downloads\\TP4\\wwwroot\\img\\medias\\mediasDefensayjusticia.png",
       "PackagePath": "staticwebassets\\img\\medias\\mediasDefensayjusticia.png"
     },
     {
-      "Id": "C:\\Users\\Thiago\\Downloads\\TP4-main\\wwwroot\\img\\medias\\mediasEstudiantes.png",
+      "Id": "C:\\Users\\47393575\\Downloads\\TP4\\wwwroot\\img\\medias\\mediasEstudiantes.png",
       "PackagePath": "staticwebassets\\img\\medias\\mediasEstudiantes.png"
     },
     {
-      "Id": "C:\\Users\\Thiago\\Downloads\\TP4-main\\wwwroot\\img\\medias\\mediasLanus.png",
+      "Id": "C:\\Users\\47393575\\Downloads\\TP4\\wwwroot\\img\\medias\\mediasLanus.png",
       "PackagePath": "staticwebassets\\img\\medias\\mediasLanus.png"
     },
     {
-      "Id": "C:\\Users\\Thiago\\Downloads\\TP4-main\\wwwroot\\img\\medias\\mediasRiver.png",
+      "Id": "C:\\Users\\47393575\\Downloads\\TP4\\wwwroot\\img\\medias\\mediasRiver.png",
       "PackagePath": "staticwebassets\\img\\medias\\mediasRiver.png"
     },
     {
-      "Id": "C:\\Users\\Thiago\\Downloads\\TP4-main\\wwwroot\\img\\medias\\mediasRosariocentral.png",
+      "Id": "C:\\Users\\47393575\\Downloads\\TP4\\wwwroot\\img\\medias\\mediasRosariocentral.png",
       "PackagePath": "staticwebassets\\img\\medias\\mediasRosariocentral.png"
     },
     {
-      "Id": "C:\\Users\\Thiago\\Downloads\\TP4-main\\wwwroot\\img\\medias\\mediasSanlorenzo.png",
+      "Id": "C:\\Users\\47393575\\Downloads\\TP4\\wwwroot\\img\\medias\\mediasSanlorenzo.png",
       "PackagePath": "staticwebassets\\img\\medias\\mediasSanlorenzo.png"
     },
     {
-      "Id": "C:\\Users\\Thiago\\Downloads\\TP4-main\\wwwroot\\img\\medias\\mediasTalleres.png",
+      "Id": "C:\\Users\\47393575\\Downloads\\TP4\\wwwroot\\img\\medias\\mediasTalleres.png",
       "PackagePath": "staticwebassets\\img\\medias\\mediasTalleres.png"
     },
     {
-      "Id": "C:\\Users\\Thiago\\Downloads\\TP4-main\\wwwroot\\img\\mediasboca.png",
+      "Id": "C:\\Users\\47393575\\Downloads\\TP4\\wwwroot\\img\\mediasboca.png",
       "PackagePath": "staticwebassets\\img\\mediasboca.png"
     },
     {
-      "Id": "C:\\Users\\Thiago\\Downloads\\TP4-main\\wwwroot\\img\\pantalon\\pantalonArgentinosjuniors.png",
+      "Id": "C:\\Users\\47393575\\Downloads\\TP4\\wwwroot\\img\\pantalon\\pantalonArgentinosjuniors.png",
       "PackagePath": "staticwebassets\\img\\pantalon\\pantalonArgentinosjuniors.png"
     },
     {
-      "Id": "C:\\Users\\Thiago\\Downloads\\TP4-main\\wwwroot\\img\\pantalon\\pantalonBelgrano.png",
+      "Id": "C:\\Users\\47393575\\Downloads\\TP4\\wwwroot\\img\\pantalon\\pantalonBelgrano.png",
       "PackagePath": "staticwebassets\\img\\pantalon\\pantalonBelgrano.png"
     },
     {
-      "Id": "C:\\Users\\Thiago\\Downloads\\TP4-main\\wwwroot\\img\\pantalon\\pantalonBoca.png",
+      "Id": "C:\\Users\\47393575\\Downloads\\TP4\\wwwroot\\img\\pantalon\\pantalonBoca.png",
       "PackagePath": "staticwebassets\\img\\pantalon\\pantalonBoca.png"
     },
     {
-      "Id": "C:\\Users\\Thiago\\Downloads\\TP4-main\\wwwroot\\img\\pantalon\\pantalonDefensayjusticia.png",
+      "Id": "C:\\Users\\47393575\\Downloads\\TP4\\wwwroot\\img\\pantalon\\pantalonDefensayjusticia.png",
       "PackagePath": "staticwebassets\\img\\pantalon\\pantalonDefensayjusticia.png"
     },
     {
-      "Id": "C:\\Users\\Thiago\\Downloads\\TP4-main\\wwwroot\\img\\pantalon\\pantalonEstudiantes.png",
+      "Id": "C:\\Users\\47393575\\Downloads\\TP4\\wwwroot\\img\\pantalon\\pantalonEstudiantes.png",
       "PackagePath": "staticwebassets\\img\\pantalon\\pantalonEstudiantes.png"
     },
     {
-      "Id": "C:\\Users\\Thiago\\Downloads\\TP4-main\\wwwroot\\img\\pantalon\\pantalonLanus.png",
+      "Id": "C:\\Users\\47393575\\Downloads\\TP4\\wwwroot\\img\\pantalon\\pantalonLanus.png",
       "PackagePath": "staticwebassets\\img\\pantalon\\pantalonLanus.png"
     },
     {
-      "Id": "C:\\Users\\Thiago\\Downloads\\TP4-main\\wwwroot\\img\\pantalon\\pantalonRiver.png",
+      "Id": "C:\\Users\\47393575\\Downloads\\TP4\\wwwroot\\img\\pantalon\\pantalonRiver.png",
       "PackagePath": "staticwebassets\\img\\pantalon\\pantalonRiver.png"
     },
     {
-      "Id": "C:\\Users\\Thiago\\Downloads\\TP4-main\\wwwroot\\img\\pantalon\\pantalonRosariocentral.png",
+      "Id": "C:\\Users\\47393575\\Downloads\\TP4\\wwwroot\\img\\pantalon\\pantalonRosariocentral.png",
       "PackagePath": "staticwebassets\\img\\pantalon\\pantalonRosariocentral.png"
     },
     {
-      "Id": "C:\\Users\\Thiago\\Downloads\\TP4-main\\wwwroot\\img\\pantalon\\pantalonSanlorenzo.png",
+      "Id": "C:\\Users\\47393575\\Downloads\\TP4\\wwwroot\\img\\pantalon\\pantalonSanlorenzo.png",
       "PackagePath": "staticwebassets\\img\\pantalon\\pantalonSanlorenzo.png"
     },
     {
-      "Id": "C:\\Users\\Thiago\\Downloads\\TP4-main\\wwwroot\\img\\pantalon\\pantalonTalleres.png",
+      "Id": "C:\\Users\\47393575\\Downloads\\TP4\\wwwroot\\img\\pantalon\\pantalonTalleres.png",
       "PackagePath": "staticwebassets\\img\\pantalon\\pantalonTalleres.png"
     },
     {
-      "Id": "C:\\Users\\Thiago\\Downloads\\TP4-main\\wwwroot\\img\\pantalonboca.png",
+      "Id": "C:\\Users\\47393575\\Downloads\\TP4\\wwwroot\\img\\pantalonboca.png",
       "PackagePath": "staticwebassets\\img\\pantalonboca.png"
     },
     {
-      "Id": "C:\\Users\\Thiago\\Downloads\\TP4-main\\wwwroot\\img\\remera\\remeraArgentinosjuniors.png",
+      "Id": "C:\\Users\\47393575\\Downloads\\TP4\\wwwroot\\img\\remera\\remeraArgentinosjuniors.png",
       "PackagePath": "staticwebassets\\img\\remera\\remeraArgentinosjuniors.png"
     },
     {
-      "Id": "C:\\Users\\Thiago\\Downloads\\TP4-main\\wwwroot\\img\\remera\\remeraBelgrano.png",
+      "Id": "C:\\Users\\47393575\\Downloads\\TP4\\wwwroot\\img\\remera\\remeraBelgrano.png",
       "PackagePath": "staticwebassets\\img\\remera\\remeraBelgrano.png"
     },
     {
-      "Id": "C:\\Users\\Thiago\\Downloads\\TP4-main\\wwwroot\\img\\remera\\remeraDefensayjusticia.png",
+      "Id": "C:\\Users\\47393575\\Downloads\\TP4\\wwwroot\\img\\remera\\remeraDefensayjusticia.png",
       "PackagePath": "staticwebassets\\img\\remera\\remeraDefensayjusticia.png"
     },
     {
-      "Id": "C:\\Users\\Thiago\\Downloads\\TP4-main\\wwwroot\\img\\remera\\remeraEstudiantes.png",
+      "Id": "C:\\Users\\47393575\\Downloads\\TP4\\wwwroot\\img\\remera\\remeraEstudiantes.png",
       "PackagePath": "staticwebassets\\img\\remera\\remeraEstudiantes.png"
     },
     {
-      "Id": "C:\\Users\\Thiago\\Downloads\\TP4-main\\wwwroot\\img\\remera\\remeraLanus.png",
+      "Id": "C:\\Users\\47393575\\Downloads\\TP4\\wwwroot\\img\\remera\\remeraLanus.png",
       "PackagePath": "staticwebassets\\img\\remera\\remeraLanus.png"
     },
     {
-      "Id": "C:\\Users\\Thiago\\Downloads\\TP4-main\\wwwroot\\img\\remera\\remeraRiver.png",
+      "Id": "C:\\Users\\47393575\\Downloads\\TP4\\wwwroot\\img\\remera\\remeraRiver.png",
       "PackagePath": "staticwebassets\\img\\remera\\remeraRiver.png"
     },
     {
-      "Id": "C:\\Users\\Thiago\\Downloads\\TP4-main\\wwwroot\\img\\remera\\remeraRosariocentral.png",
+      "Id": "C:\\Users\\47393575\\Downloads\\TP4\\wwwroot\\img\\remera\\remeraRosariocentral.png",
       "PackagePath": "staticwebassets\\img\\remera\\remeraRosariocentral.png"
     },
     {
-      "Id": "C:\\Users\\Thiago\\Downloads\\TP4-main\\wwwroot\\img\\remera\\remeraSanlorenzo.png",
+      "Id": "C:\\Users\\47393575\\Downloads\\TP4\\wwwroot\\img\\remera\\remeraSanlorenzo.png",
       "PackagePath": "staticwebassets\\img\\remera\\remeraSanlorenzo.png"
     },
     {
-      "Id": "C:\\Users\\Thiago\\Downloads\\TP4-main\\wwwroot\\img\\remera\\remeraTalleres.png",
+      "Id": "C:\\Users\\47393575\\Downloads\\TP4\\wwwroot\\img\\remera\\remeraTalleres.png",
       "PackagePath": "staticwebassets\\img\\remera\\remeraTalleres.png"
     },
     {
-      "Id": "C:\\Users\\Thiago\\Downloads\\TP4-main\\wwwroot\\img\\remera\\remeraboca.png",
+      "Id": "C:\\Users\\47393575\\Downloads\\TP4\\wwwroot\\img\\remera\\remeraboca.png",
       "PackagePath": "staticwebassets\\img\\remera\\remeraboca.png"
     },
     {
-      "Id": "C:\\Users\\Thiago\\Downloads\\TP4-main\\wwwroot\\img\\remeraboca.png",
+      "Id": "C:\\Users\\47393575\\Downloads\\TP4\\wwwroot\\img\\remeraboca.png",
       "PackagePath": "staticwebassets\\img\\remeraboca.png"
     },
     {
-      "Id": "C:\\Users\\Thiago\\Downloads\\TP4-main\\wwwroot\\js\\indumentaria.js",
+      "Id": "C:\\Users\\47393575\\Downloads\\TP4\\wwwroot\\js\\indumentaria.js",
       "PackagePath": "staticwebassets\\js\\indumentaria.js"
     },
     {
-      "Id": "C:\\Users\\Thiago\\Downloads\\TP4-main\\wwwroot\\js\\site.js",
+      "Id": "C:\\Users\\47393575\\Downloads\\TP4\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "C:\\Users\\Thiago\\Downloads\\TP4-main\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "C:\\Users\\47393575\\Downloads\\TP4\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "C:\\Users\\Thiago\\Downloads\\TP4-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "C:\\Users\\47393575\\Downloads\\TP4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "C:\\Users\\Thiago\\Downloads\\TP4-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "C:\\Users\\47393575\\Downloads\\TP4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "C:\\Users\\Thiago\\Downloads\\TP4-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "C:\\Users\\47393575\\Downloads\\TP4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "C:\\Users\\Thiago\\Downloads\\TP4-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "C:\\Users\\47393575\\Downloads\\TP4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Thiago\\Downloads\\TP4-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "C:\\Users\\47393575\\Downloads\\TP4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "C:\\Users\\Thiago\\Downloads\\TP4-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "C:\\Users\\47393575\\Downloads\\TP4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\Thiago\\Downloads\\TP4-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "C:\\Users\\47393575\\Downloads\\TP4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\Thiago\\Downloads\\TP4-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "C:\\Users\\47393575\\Downloads\\TP4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Thiago\\Downloads\\TP4-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "C:\\Users\\47393575\\Downloads\\TP4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "C:\\Users\\Thiago\\Downloads\\TP4-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "C:\\Users\\47393575\\Downloads\\TP4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "C:\\Users\\Thiago\\Downloads\\TP4-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "C:\\Users\\47393575\\Downloads\\TP4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "C:\\Users\\Thiago\\Downloads\\TP4-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "C:\\Users\\47393575\\Downloads\\TP4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Thiago\\Downloads\\TP4-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "C:\\Users\\47393575\\Downloads\\TP4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "C:\\Users\\Thiago\\Downloads\\TP4-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "C:\\Users\\47393575\\Downloads\\TP4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\Thiago\\Downloads\\TP4-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "C:\\Users\\47393575\\Downloads\\TP4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\Thiago\\Downloads\\TP4-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "C:\\Users\\47393575\\Downloads\\TP4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Thiago\\Downloads\\TP4-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "C:\\Users\\47393575\\Downloads\\TP4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "C:\\Users\\Thiago\\Downloads\\TP4-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "C:\\Users\\47393575\\Downloads\\TP4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "C:\\Users\\Thiago\\Downloads\\TP4-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "C:\\Users\\47393575\\Downloads\\TP4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "C:\\Users\\Thiago\\Downloads\\TP4-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "C:\\Users\\47393575\\Downloads\\TP4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Thiago\\Downloads\\TP4-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "C:\\Users\\47393575\\Downloads\\TP4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "C:\\Users\\Thiago\\Downloads\\TP4-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "C:\\Users\\47393575\\Downloads\\TP4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\Thiago\\Downloads\\TP4-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "C:\\Users\\47393575\\Downloads\\TP4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\Thiago\\Downloads\\TP4-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "C:\\Users\\47393575\\Downloads\\TP4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Thiago\\Downloads\\TP4-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "C:\\Users\\47393575\\Downloads\\TP4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "C:\\Users\\Thiago\\Downloads\\TP4-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "C:\\Users\\47393575\\Downloads\\TP4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "C:\\Users\\Thiago\\Downloads\\TP4-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "C:\\Users\\47393575\\Downloads\\TP4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\Thiago\\Downloads\\TP4-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "C:\\Users\\47393575\\Downloads\\TP4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Thiago\\Downloads\\TP4-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "C:\\Users\\47393575\\Downloads\\TP4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "C:\\Users\\Thiago\\Downloads\\TP4-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "C:\\Users\\47393575\\Downloads\\TP4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\Thiago\\Downloads\\TP4-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "C:\\Users\\47393575\\Downloads\\TP4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\Thiago\\Downloads\\TP4-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "C:\\Users\\47393575\\Downloads\\TP4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Thiago\\Downloads\\TP4-main\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "C:\\Users\\47393575\\Downloads\\TP4\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "C:\\Users\\Thiago\\Downloads\\TP4-main\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "C:\\Users\\47393575\\Downloads\\TP4\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "C:\\Users\\Thiago\\Downloads\\TP4-main\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "C:\\Users\\47393575\\Downloads\\TP4\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "C:\\Users\\Thiago\\Downloads\\TP4-main\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "C:\\Users\\47393575\\Downloads\\TP4\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "C:\\Users\\Thiago\\Downloads\\TP4-main\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "C:\\Users\\47393575\\Downloads\\TP4\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "C:\\Users\\Thiago\\Downloads\\TP4-main\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "C:\\Users\\47393575\\Downloads\\TP4\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "C:\\Users\\Thiago\\Downloads\\TP4-main\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "C:\\Users\\47393575\\Downloads\\TP4\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "C:\\Users\\Thiago\\Downloads\\TP4-main\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "C:\\Users\\47393575\\Downloads\\TP4\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "C:\\Users\\Thiago\\Downloads\\TP4-main\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "C:\\Users\\47393575\\Downloads\\TP4\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "C:\\Users\\Thiago\\Downloads\\TP4-main\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "C:\\Users\\47393575\\Downloads\\TP4\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "C:\\Users\\Thiago\\Downloads\\TP4-main\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "C:\\Users\\47393575\\Downloads\\TP4\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "C:\\Users\\Thiago\\Downloads\\TP4-main\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "C:\\Users\\47393575\\Downloads\\TP4\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "C:\\Users\\Thiago\\Downloads\\TP4-main\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "C:\\Users\\47393575\\Downloads\\TP4\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\Thiago\\Downloads\\TP4-main\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "C:\\Users\\47393575\\Downloads\\TP4\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "C:\\Users\\Thiago\\Downloads\\TP4-main\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "C:\\Users\\47393575\\Downloads\\TP4\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "C:\\Users\\Thiago\\Downloads\\TP4-main\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "C:\\Users\\47393575\\Downloads\\TP4\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "C:\\Users\\Thiago\\Downloads\\TP4-main\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "C:\\Users\\47393575\\Downloads\\TP4\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "C:\\Users\\Thiago\\Downloads\\TP4-main\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "C:\\Users\\47393575\\Downloads\\TP4\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "C:\\Users\\Thiago\\Downloads\\TP4-main\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "C:\\Users\\47393575\\Downloads\\TP4\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "C:\\Users\\Thiago\\Downloads\\TP4-main\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "C:\\Users\\47393575\\Downloads\\TP4\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "C:\\Users\\Thiago\\Downloads\\TP4-main\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "C:\\Users\\47393575\\Downloads\\TP4\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\Thiago\\Downloads\\TP4-main\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "C:\\Users\\47393575\\Downloads\\TP4\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "C:\\Users\\Thiago\\Downloads\\TP4-main\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "C:\\Users\\47393575\\Downloads\\TP4\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "C:\\Users\\Thiago\\Downloads\\TP4-main\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "C:\\Users\\47393575\\Downloads\\TP4\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
