@@ -5,11 +5,20 @@
 
     <a href='@Url.Action("SelectIndumentaria","Home")'>Ir a agregar equipos</a>
     <article class="flex">
-        <div class="cuadrado">
+        <div class="cuadradoConjuntos">
             @{ 
                 if (@ViewBag.EquiposCreados != null) {
-                    foreach(Indumentaria i in @ViewBag.EquiposCreados) {
-                        <h3>@i.value.Medias</h3>
+                    foreach(var i in @ViewBag.EquiposCreados) {
+                        string rutaRemera= "img/remera/remera" + @ViewBag.EquiposCreados[i.Key].Camiseta + ".png";
+                        string rutaPantalon = "img/pantalon/pantalon" + @ViewBag.EquiposCreados[i.Key].Pantalon + ".png";
+                        string rutaMedia = "img/medias/medias" + @ViewBag.EquiposCreados[i.Key].Medias + ".png";
+                        <div class="conjunto">
+                            <img src='@Url.Content("~/" + rutaRemera)' >
+                            <img src='@Url.Content("~/" + rutaPantalon)' >
+                            <img src='@Url.Content("~/" + rutaMedia)' >
+                            <h3></h3>
+                        </div>
+
                     }
                 }  
             }

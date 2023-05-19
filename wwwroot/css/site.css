@@ -37,6 +37,13 @@ main {
   justify-content: center;
   width: 100%;
 }
+.cuadradoConjuntos {
+  width: 50vw;
+  height: 900px;
+  display: flex;
+  flex-direction: column;
+  padding: 0 50px;
+}
 .cuadrado {
   width: 50vw;
   height: 900px;
@@ -101,4 +108,13 @@ main {
 }
 .invisibles {
   display: none;
+}
+.conjunto {
+  display: flex;
+  flex-direction: column;
+  margin-right: 20px;
+}
+.conjunto img {
+  width: 150px;
+  height: 150px;
 }
