@@ -1,0 +1,104 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+* {
+  margin: 0;
+  box-sizing: border-box;
+  padding: 0;
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}
+.container {
+  width: 100vw;
+  margin: 0;
+  padding: 0;
+}
+main {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.flex {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+}
+.cuadrado {
+  width: 50vw;
+  height: 900px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.divInput {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: green;
+}
+.indu {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.form {
+  background-color: purple;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-evenly;
+  text-align: center;
+  color: white;
+  border-radius: 15px;
+  margin-bottom: 50px;
+  padding: 20px;
+}
+.form input {
+  border: 1px solid black;
+  outline: none;
+}
+.archivo {
+  text-decoration: none;
+}
+.indumentarias {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.indumentarias__vestimenta {
+  display: flex;
+  flex-wrap: wrap;
+  border: 1px solid black;
+  border-top: 0;
+}
+.indumentarias__vestimenta:first-child {
+  border-top: 1px solid black;
+}
+.indumentarias__vestimenta img {
+  width: 150px;
+  height: 150px;
+}
+.indumentarias__vestimenta img:hover {
+  background-color: rgb(139, 175, 175);
+  cursor: pointer;
+}
+.selected {
+  background-color: aqua !important;
+}
+.invisibles {
+  display: none;
+}

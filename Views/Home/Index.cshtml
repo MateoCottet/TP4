@@ -1,0 +1,24 @@
+﻿@{
+    ViewData["Title"] = "Index";
+    
+}
+
+    <a href='@Url.Action("SelectIndumentaria","Home")'>Ir a agregar equipos</a>
+    <article class="flex">
+        <div class="cuadrado">
+            @{ 
+                if (@ViewBag.EquiposCreados != null) {
+                    <h3>@ViewBag.EquiposCreados["boca"].Medias</h3>
+                }
+                if (@ViewBag.indu != null) {
+                    <h3>@ViewBag.indu.Medias</h3>
+                }  
+            }
+        </div>
+        <div class="cuadrado"> 
+            <div class="divInput">
+                <h2>Ingresar nombre equipo:</h2>
+                <input type="text" name="" id="">
+            </div>
+        </div>
+    </article>

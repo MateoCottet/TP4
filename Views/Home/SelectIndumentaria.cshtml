@@ -1,0 +1,46 @@
+
+@{
+    ViewData["Title"] = "SelectIndumentaria";
+}
+<main>
+    <form action="/Home/GuardarIndumentaria" method="post" class="form">
+        <div>
+            <h2>Equipo</h2>
+            <input type="text">
+        </div>
+        <input type="text" class="">
+        <input type="text" class="">
+        <input type="text" class="">
+        <input type="submit" value="Enviar">
+    </form>
+    <div class="indumentarias">
+        <div class="indumentarias__vestimenta">
+            @{
+                for(int i = 0; i<10;i++) {
+                    string rute = "img/remera/remera" + ViewBag.Equipos[i] + ".png";
+                    <img src='@Url.Content("~/" + rute)' id="@ViewBag.Equipos[i]">
+                }
+            }
+        </div>
+        <div class="indumentarias__vestimenta">
+            @{
+                for(int i = 0; i<10;i++) {
+                    string rute = "img/pantalon/pantalon" + ViewBag.Equipos[i] + ".png";
+                    <img src='@Url.Content("~/" + rute)' id="@ViewBag.Equipos[i]">
+                }
+            }
+        </div>
+        <div class="indumentarias__vestimenta">
+            @{
+                for(int i = 0; i<10;i++) {
+                    string rute = "img/medias/medias" + ViewBag.Equipos[i] + ".png";
+                    <img src='@Url.Content("~/" + rute)' id="@ViewBag.Equipos[i]">
+                }
+            }
+        </div>
+  
+    </div>
+
+
+</main>
+<script src='@Url.Content("~/js/indumentaria.js")'></script>

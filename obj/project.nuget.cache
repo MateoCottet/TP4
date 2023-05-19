@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "s8wozkPBGe+RoFRfzGQQ5FPzLCGekWoaIwG5xEy/D48ZifGa5/CkAnmFKdxMRZ1JXa3ioGltthC6bRUcmuondQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Thiago\\Downloads\\TP4-main\\Tp4.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Thiago\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.16\\microsoft.netcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\Thiago\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.16\\microsoft.windowsdesktop.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\Thiago\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.16\\microsoft.aspnetcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\Thiago\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.16\\microsoft.netcore.app.host.win-x64.6.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}
